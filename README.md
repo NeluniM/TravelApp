@@ -12,15 +12,7 @@ Secure Payments: Process transactions securely via card payments (card number, e
 User Profile Management: Personalize your experience by updating details (name, email, contact number), tracking visited countries, and managing login/registration via email/password or social media (Facebook, Google, Apple). 👤
 Gamified Engagement: Earn badges for travel milestones, such as booking trips, visiting new countries, or exploring diverse landscapes. 🏆
 
-Screenshots 📸
 
-Launching Screen: Welcomes users with a vibrant "Get Started" call-to-action.
-Register Page: Collects user details (name, email, contact number, password) with a login link for existing users.
-Login Page: Supports email/password authentication or social media login (Facebook, Google, Apple).
-Home Page: Personalized dashboard showcasing popular destinations (e.g., Assumption Cathedral Vladimir).
-Destination Pages: Detailed views of iconic locations like Khao Sok National Park, Merlion Statue, and Statue of Liberty, with pricing and booking options.
-Profile Page: Displays user information and travel history with a logout option.
-Payment Pages: Streamlined interface for card and alternative payment methods, with a success confirmation screen.
 
 Installation ⚙️
 Follow these steps to set up and run the project locally:
